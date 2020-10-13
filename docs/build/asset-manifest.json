@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deply-test/static/css/main.186ae262.chunk.css",
+    "main.js": "/deply-test/static/js/main.6c937d48.chunk.js",
+    "main.js.map": "/deply-test/static/js/main.6c937d48.chunk.js.map",
+    "runtime-main.js": "/deply-test/static/js/runtime-main.48226a89.js",
+    "runtime-main.js.map": "/deply-test/static/js/runtime-main.48226a89.js.map",
+    "static/js/2.79a06790.chunk.js": "/deply-test/static/js/2.79a06790.chunk.js",
+    "static/js/2.79a06790.chunk.js.map": "/deply-test/static/js/2.79a06790.chunk.js.map",
+    "index.html": "/deply-test/index.html",
+    "precache-manifest.5da92aa231e80082735ad75113f161b3.js": "/deply-test/precache-manifest.5da92aa231e80082735ad75113f161b3.js",
+    "service-worker.js": "/deply-test/service-worker.js",
+    "static/css/main.186ae262.chunk.css.map": "/deply-test/static/css/main.186ae262.chunk.css.map",
+    "static/js/2.79a06790.chunk.js.LICENSE.txt": "/deply-test/static/js/2.79a06790.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48226a89.js",
+    "static/js/2.79a06790.chunk.js",
+    "static/css/main.186ae262.chunk.css",
+    "static/js/main.6c937d48.chunk.js"
+  ]
+}
