@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/setogawamasao/deply-test.git/static/css/main.186ae262.chunk.css",
+    "main.js": "/setogawamasao/deply-test.git/static/js/main.6c937d48.chunk.js",
+    "main.js.map": "/setogawamasao/deply-test.git/static/js/main.6c937d48.chunk.js.map",
+    "runtime-main.js": "/setogawamasao/deply-test.git/static/js/runtime-main.2ed190ff.js",
+    "runtime-main.js.map": "/setogawamasao/deply-test.git/static/js/runtime-main.2ed190ff.js.map",
+    "static/js/2.79a06790.chunk.js": "/setogawamasao/deply-test.git/static/js/2.79a06790.chunk.js",
+    "static/js/2.79a06790.chunk.js.map": "/setogawamasao/deply-test.git/static/js/2.79a06790.chunk.js.map",
+    "index.html": "/setogawamasao/deply-test.git/index.html",
+    "precache-manifest.25ddb2c2d5c1efff73e0853bcf2c5e20.js": "/setogawamasao/deply-test.git/precache-manifest.25ddb2c2d5c1efff73e0853bcf2c5e20.js",
+    "service-worker.js": "/setogawamasao/deply-test.git/service-worker.js",
+    "static/css/main.186ae262.chunk.css.map": "/setogawamasao/deply-test.git/static/css/main.186ae262.chunk.css.map",
+    "static/js/2.79a06790.chunk.js.LICENSE.txt": "/setogawamasao/deply-test.git/static/js/2.79a06790.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ed190ff.js",
+    "static/js/2.79a06790.chunk.js",
+    "static/css/main.186ae262.chunk.css",
+    "static/js/main.6c937d48.chunk.js"
+  ]
+}
