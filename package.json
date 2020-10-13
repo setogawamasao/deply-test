@@ -15,7 +15,7 @@
     "react-scripts": "3.4.3",
     "typescript": "~3.7.2"
   },
-  "homepage":"./",
+  "homepage":"https://github.com/setogawamasao/deply-test.git/docs",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && mv build docs",
