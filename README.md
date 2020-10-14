@@ -1,3 +1,4 @@
-## XXXXXXXXXXXXXXXXXX
+## githubでページ公開
 
-![DEMO](./gif/demo.gif)
+
+[DEMO]([./gif/demo.gif](https://setogawamasao.github.io/deply-test/))
